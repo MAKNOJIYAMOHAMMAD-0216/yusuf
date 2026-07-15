@@ -14,7 +14,7 @@ export default function Login({ onLogin }) {
 
     // Simulated network delay for a premium feel
     setTimeout(() => {
-      if (name.toLowerCase() === 'yusuf farid' && password === 'yusuf2015') {
+      if (name.toLowerCase() === 'yusuf' && password === 'farid') {
         onLogin();
       } else {
         setError('Invalid name or password. Please try again.');
