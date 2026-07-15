@@ -1,0 +1,18 @@
+export const mathsData = [
+  { id: 'm_row1', kram: '1.', title: 'Large Numbers', status: 'pending' },
+  { id: 'm_row2', kram: '2.', title: 'Number Operations', status: 'pending' },
+  { id: 'm_row3', kram: '3.', title: 'Factors and Multiples', status: 'pending' },
+  { id: 'm_row4', kram: '4.', title: 'Fractions', status: 'pending' },
+  { id: 'm_row5', kram: '5.', title: 'Decimals', status: 'pending' },
+  { id: 'm_row6', kram: '6.', title: 'Symmetry, Patterns and Nets', status: 'pending' },
+  { id: 'm_row7', kram: '7.', title: 'Percentage', status: 'pending' },
+  { id: 'm_row8', kram: '8.', title: 'Measurement', status: 'pending' },
+  { id: 'm_row9', kram: '9.', title: 'Area and Volume', status: 'pending' },
+  { id: 'm_row10', kram: '10.', title: 'Geometry', status: 'pending' },
+  { id: 'm_row11', kram: '11.', title: 'Time and Temperature', status: 'pending' },
+  { id: 'm_row12', kram: '12.', title: 'Money', status: 'pending' },
+  { id: 'm_row13', kram: '13.', title: 'Data Handling', status: 'pending' },
+  { id: 'm_row14', kram: '14.', title: 'Mapping Skills', status: 'pending' },
+  { id: 'm_row15', kram: '15.', title: 'Introduction to Algebra', status: 'pending' },
+  { id: 'm_row16', kram: '★', title: 'Answers', status: 'pending', isSpecial: true },
+];
